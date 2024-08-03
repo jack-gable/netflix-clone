@@ -1,0 +1,134 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Header /> renders the basic <Header /> with a background 1`] = `
+<div
+  class="sc-grBnJl imLJgj"
+  data-testid="header-bg"
+>
+  <div
+    class="sc-hrDJJk gNsual"
+  >
+    <p
+      active="true"
+      class="sc-jhhoqv hPIvZw"
+    >
+      Hello I am a link!
+    </p>
+  </div>
+</div>
+`;
+
+exports[`<Header /> renders the basic <Header /> without a background 1`] = `
+<div
+  class="sc-hrDJJk gNsual"
+>
+  <p
+    class="sc-jhhoqv jtoPAo"
+  >
+    Hello I am a link!
+  </p>
+</div>
+`;
+
+exports[`<Header /> renders the full <Header> with a background 1`] = `
+<div
+  class="sc-grBnJl tscUd"
+  data-testid="header-bg"
+  src="joker1"
+>
+  <div
+    class="sc-hrDJJk gNsual"
+  >
+    <div
+      class="sc-khjKqu DnTnC"
+    >
+      <p
+        class="sc-jhhoqv jtoPAo"
+      >
+        Series
+      </p>
+      <p
+        class="sc-jhhoqv jtoPAo"
+      >
+        Films
+      </p>
+    </div>
+    <div
+      class="sc-khjKqu DnTnC"
+    >
+      <div
+        class="sc-cDelgQ DYDHF"
+      >
+        <button
+          class="sc-esHPOb ilfkMD"
+          data-testid="search-click"
+        >
+          <img
+            alt="Search"
+            src="/images/icons/search.png"
+          />
+        </button>
+        <input
+          class="sc-bDbPgR gCRMDS"
+          data-testid="search-input"
+          placeholder="Search films and series"
+          value="Joker"
+        />
+      </div>
+      <div
+        class="sc-dTXmAU fAPbeI"
+      >
+        <button
+          class="sc-hNGPaV iDneog"
+          src="/images/users//images/karl.png.png"
+        />
+        <div
+          class="sc-iNJlaU fTJBQV"
+        >
+          <div
+            class="sc-khjKqu DnTnC"
+          >
+            <button
+              class="sc-hNGPaV iDneog"
+              src="/images/users//images/karl.png.png"
+            />
+            <p
+              class="sc-jhhoqv jtoPAo"
+            >
+              Karl Hadwen
+            </p>
+          </div>
+          <div
+            class="sc-khjKqu DnTnC"
+          >
+            <p
+              class="sc-jhhoqv jtoPAo"
+            >
+              Sign out
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    class="sc-hrDJJk sc-lesvXt gNsual dYuDGt"
+  >
+    <h2
+      class="sc-gwrIee ivXtNz"
+    >
+      Watch Joker Now
+    </h2>
+    <p
+      class="sc-crribH ekbBhs"
+    >
+      Forever alone in a crowd...
+    </p>
+    <button
+      class="sc-gpSXuZ eeKyCt"
+    >
+      Play
+    </button>
+  </div>
+</div>
+`;

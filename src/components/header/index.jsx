@@ -50,7 +50,7 @@ Header.Search = function HeaderSearch({
 	setSearchTerm,
 	...restProps
 }) {
-	const [searchActive, setSearchActive] = useState("false");
+	const [searchActive, setSearchActive] = useState(false);
 
 	return (
 		<Search {...restProps}>
