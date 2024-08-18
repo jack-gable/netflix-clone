@@ -1,8 +1,26 @@
-# React + Vite
+# Netflix Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+[![Version](https://img.shields.io/badge/Version-1.0.0-brightgreen.svg)]()
 
-Currently, two official plugins are available:
+## Table of Contents
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. [Overview](#overview)
+2. [Features](#features)
+3. [Tech Stack](#tech-stack)
+4. [Installation](#installation)
+
+## Overview
+
+This Netflix clone is a fully responsive streaming app built with React, featuring a Firebase backend for authentication, data storage, and real-time updates. Users can browse, search, and watch a wide range of content.
+
+## Features
+
+-   Firebase backend for database and authentication.
+-   Realistic feel to old version of netflix website.
+
+## Tech Stack
+
+-   React
+-   React Router
+-   Firebase
+-   Styled Components
